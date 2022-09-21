@@ -53,5 +53,5 @@ PROJECT TEAM
 
  * Kaushal Joshi - https://github.com/joshi-kaushal
  * Siddhesh Bangar - https://github.com/SiddheshBangar
- * Kaustubh Inamdar 
- * Miheer More 
+ * Kaustubh Inamdar - https://github.com/Kaustubh-Inamdar
+ * Miheer More - https://github.com/Miheer09
